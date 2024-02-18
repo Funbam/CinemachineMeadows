@@ -70,22 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-# FMOD Git Ingnore stuff
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset.meta
-fmod.log
-fmod_editor.log
-Fmod.log
-Fmod_editor.log
-Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset.meta
-Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
-Assets\Plugins\FMOD\Cache\Editor\FMODStudioCache.asset
-*.log
-*fmod_editor.log
-*fmod.log
-*Assets/FMODStudioCache.asset
-*Assets/FMODStudioCache.asset.meta
-*Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset.meta
-*.asset.meta
-*.log
